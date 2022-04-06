@@ -1,0 +1,1 @@
+Painting App created with React
